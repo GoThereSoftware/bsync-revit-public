@@ -1,0 +1,2 @@
+86efee86bcda723888f3c6380a3bb2539f577b066796a9f70cdc5cbceb3742aa *BlenderSync-Setup-v0.1.0.exe
+1111b0aa152a2effc4ad2a57e71df1b9f4139a576bd916ea96196d7c1d04d14d *BlenderSync-v0.1.0.msi
